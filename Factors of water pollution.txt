@@ -1,0 +1,24 @@
+<html>
+<head>
+<title> Factors of Water Pollutions </title>
+</head>
+<body>
+<font size=6 face="helvetica" color="black">
+<h1 align="center"> Factors of Water Pollution </h1>
+<hr>
+<img src="11 jpeg" align="right" length="259" width="194">
+<p> Water pollution, the release of substance into <u>lakes, streams, rivers and oceans to the point where the substances 
+interfere with beneficial use of the water or with the natural functioning of ecosystems. 
+In addition to the release of substances, such as chemicals or microorganisms, water pollution into bodies of water. <u></p>
+<p> Water is a renewable resource its overuse and pollution make it unfit for use. </p>
+<p> Discharge of untreated or partially treated sewage,agriculture chemicals and industrial 
+effluents in water bodies are major contaminantes. </p>
+<p> Most of these chemicals are non-biodegradabe and reach human bodies through water. </p>
+<p> Industrial waste is one of the biggest sources of water contamination. </p>
+<p> Large oil spills and leaks are some of most significant causes of water pollution. These are often caused by oil 
+drilling operations in the ocean, but nearly half of the estimated 1 million tons of oil that makes 
+its way into marine environments each year come not from oil tankers, but from land-based sources like factories, farms and cities. </p>
+<p> 80% of the worldwide wastewater goes back in the environment without being treated or reused.</b> </p>
+<p> Water pollution has very negative effects on public health.</b> </p>
+</body>
+</html>
